@@ -1,0 +1,38 @@
+{
+  "name": "generator-savi",
+  "version": "1.0.0",
+  "description": "A Yeoman Generator for SAVI architecture",
+  "main": "index.js",
+  "readme": "README.md",
+  "private": false,
+  "scripts": {
+    "test": "npm TODO: Add some tests!"
+  },
+  "files": [
+    "test",
+    "component",
+    "container"
+  ],
+  "dependencies": {
+    "yeoman-generator": "0.20.3",
+              "lodash": "^4.6.1",
+                "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/generator-savi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newswim/generator-savi/issues"
+  },
+  "homepage": "https://github.com/newswim/generator-savi#readme",
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "komposer",
+    "karma",
+    "chai"
+  ],
+  "author": "Daniel Minshew",
+  "license": "MIT"
+}
